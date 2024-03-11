@@ -1,4 +1,4 @@
-## Association_Analysis
+## Association_Rule_Analysis
 
 | 지표 | 계산방법 | 의미 |
 |------|----------|------|
